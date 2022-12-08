@@ -1,4 +1,3 @@
 [submodule "Snipe-IT"]
 	path = snipe-it
 	url = https://github.com/snipe/snipe-it.git
-	branch = v6.0.12
